@@ -1,2 +1,3 @@
-this is my first git 
+this is my first good git 
 git is free software.
+git is change
